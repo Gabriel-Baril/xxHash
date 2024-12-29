@@ -59,3 +59,7 @@ tests/unicode_test*
 
 # Doxygen
 doxygen/
+
+*.vcxproj
+*.vcxproj.filters
+out/
