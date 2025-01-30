@@ -61,5 +61,8 @@ tests/unicode_test*
 doxygen/
 
 *.vcxproj
+*.vcxproj.user
 *.vcxproj.filters
 out/
+x64/
+obj/
